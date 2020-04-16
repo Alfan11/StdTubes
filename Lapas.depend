@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1556501758 source:d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\lapas\lapas\list_parent.cpp
+	"list_parent.h"
+
+1556506123 source:d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\lapas\lapas\main.cpp
+	<iostream>
+	<conio.h>
+	"list_child.h"
+	"list_parent.h"
+
+1556458016 source:d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\lapas\lapas\list_child.cpp
+	"list_child.h"
+
+1556469425 d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\lapas\lapas\list_child.h
+	<stdlib.h>
+	<iostream>
+
+1556477788 d:\backup alpan\alpan backup\file kuliah\semester 2\strukdat\tubes\lapas\lapas\list_parent.h
+	<stdlib.h>
+	<iostream>
+	"list_child.h"
+
